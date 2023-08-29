@@ -34,7 +34,7 @@ Python 3.9 + requirements.txt
 
 5. Run the following command in your terminal to create the embeddings and store it locally:
    ```
-   python run ingest.py
+   python ingest.py
    ```
 
 6. Run the following command in your terminal to run the app UI:
