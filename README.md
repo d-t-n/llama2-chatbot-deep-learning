@@ -2,8 +2,8 @@
  Deep Learning expert chatbot built using Llama2, langchain and chainlit and Deep Learning books.
 
 ### Data
-- [Dive Into Deep Learning]: https://d2l.ai/d2l-en.pdf
-- [Deep Learning]: http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf
+- Dive Into Deep Learning: https://d2l.ai/d2l-en.pdf
+- Deep Learning: http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf
 
 ## System Requirements
 
@@ -13,7 +13,7 @@ Python 3.9 + requirements.txt
 
 ## Installation
 
-1. Fork this repository and create a codespace in GitHub as I showed you in the youtube video OR Clone it locally.
+1. Fork this repository and create a codespace in GitHub or clone it locally.
 
 2. Use your HuggingfaceHub API key (from this [URL](https://huggingface.co/settings/tokens)) in the .env file
    ```
