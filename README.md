@@ -37,6 +37,7 @@ Python 3.9 + requirements.txt
    python ingest.py
    ```
 
-6. Run the following command in your terminal to run the app UI:
+6. Run the following command in your terminal to run the app UI (to choose ip and port use --host IP and --port XXXX):
    ```
-   chainlit run main.py -w
+   chainlit run main.py -w --host 127.0.0.1 --port 9001
+   ```
